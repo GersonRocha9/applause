@@ -2,8 +2,8 @@
 
 A team recognition feed where colleagues publicly thank and praise each other, built with Next.js 15, React 19, TypeScript and Tailwind CSS 4.
 
-[![CI](https://github.com/GersonRocha9/applause-teste/actions/workflows/ci.yml/badge.svg)](https://github.com/GersonRocha9/applause-teste/actions/workflows/ci.yml)
-[![Latest release](https://img.shields.io/github/v/release/GersonRocha9/applause-teste)](https://github.com/GersonRocha9/applause-teste/releases)
+[![CI](https://github.com/GersonRocha9/applause/actions/workflows/ci.yml/badge.svg)](https://github.com/GersonRocha9/applause/actions/workflows/ci.yml)
+[![Latest release](https://img.shields.io/github/v/release/GersonRocha9/applause)](https://github.com/GersonRocha9/applause/releases)
 
 **Live demo:** https://applause-teste.vercel.app
 
@@ -58,8 +58,8 @@ Data comes from local JSON mocks (`participants-mock.json`, `posts-mock.json`) a
 Requires Node.js 20 (the version used in CI) and npm.
 
 ```bash
-git clone https://github.com/GersonRocha9/applause-teste.git
-cd applause-teste
+git clone https://github.com/GersonRocha9/applause.git
+cd applause
 npm install
 npm run dev
 ```
